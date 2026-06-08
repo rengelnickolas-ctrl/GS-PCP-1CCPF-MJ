@@ -22,6 +22,6 @@ O projeto mostra como a programação pode ser usada para monitorar sistemas cr�
 
 ## Como usar
 
-1. Baixe o arquivo `mission_control.py`.
+1. Baixe o arquivo GS_SERS.py
 2. Abra o no colab ou vs code ou em outro editor de código.
 
